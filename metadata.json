@@ -1,0 +1,6 @@
+{
+  "name": "_PG.Dev - Technology Education Platform",
+  "description": "Master systems programming, distributed runtime engineering, and applied AI through disciplined, production-grade labs and deterministic practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
